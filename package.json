@@ -1,0 +1,34 @@
+{
+  "name": "tools-wiblog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "babel-eslint": "^10.1.0",
+    "bootstrap": "^4.5.0",
+    "element-ui": "^2.13.2",
+    "core-js": "^3.6.5",
+    "eslint": "^7.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "nouislider": "^14.6.0",
+    "vue": "^2.6.12",
+    "vue-lazy-load": "^0.0.7",
+    "vue-lazyload": "^1.3.3",
+    "vue-router": "^3.3.4",
+    "vue2-transitions": "^0.3.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.6",
+    "@vue/cli-plugin-eslint": "^4.4.6",
+    "@vue/cli-service": "^4.4.6",
+    "babel-plugin-component": "^1.1.1",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
