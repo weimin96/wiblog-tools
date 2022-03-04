@@ -51,6 +51,7 @@ export default {
     border: 0.3rem solid #acacac;
     margin-top: 10vh;
     border-radius: 3px;
+    background: #acacac;
     /deep/ .el-input__inner {
       height: 58px;
       border: none;

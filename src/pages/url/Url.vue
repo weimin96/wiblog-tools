@@ -141,8 +141,9 @@ export default {
     margin: 8vh 0 0;
     width: 100%;
     .input-border {
-      border: 0.5rem solid #1e2d38;
+      border: 0.3rem solid #1e2d38;
       border-radius: 8px;
+      background: #1e2d38;
       /deep/ .el-input__inner {
         height: 58px;
         border: none;
