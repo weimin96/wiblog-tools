@@ -1,10 +1,10 @@
 <template>
   <navbar
     position="fixed"
-    type="primary"
+    type="primary-main"
     :transparent="transparent"
     :color-on-scroll="colorOnScroll"
-    menu-classes="ml-auto"
+    menu-classes="ms-auto"
   >
     <template>
       <router-link v-popover:popover1 class="navbar-brand" to="/">

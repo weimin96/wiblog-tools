@@ -16,5 +16,32 @@ a {
 }
 
 .main-container{
-  min-height: 71vh;
+  min-height: 76vh;
+}
+
+.ml-auto, .mx-auto {
+  margin-left: auto!important;
+}
+
+.mr-auto{
+  margin-right: auto!important;
+}
+
+.el-message--error {
+  background-color: #d89595!important;
+  border-color: #d89595!important;
+}
+.el-message--success {
+  background-color: #5a7d98!important;
+  border-color: #5a7d98!important;
+}
+.el-message__content {
+  color: rgba(250,251,255,0.95)!important;
+}
+
+.el-message {
+  .el-icon-error,.el-icon-success {
+    display: none;
+  }
+
 }

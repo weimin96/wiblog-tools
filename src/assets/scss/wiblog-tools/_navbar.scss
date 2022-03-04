@@ -176,8 +176,11 @@
     background-color: $default-color !important;
 }
 
+.bg-primary-main {
+    background: linear-gradient(to right, $primary-color , #213141) !important;
+}
+
 .bg-primary{
-    //background-color: $primary-color !important;
     background: linear-gradient(to right, $primary-color , #213141) !important;
 }
 

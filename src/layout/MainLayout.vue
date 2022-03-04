@@ -48,7 +48,7 @@ export default {
     margin: 8vh 0;
   }
   .brand-input {
-    border: 5px solid #acacac;
+    border: 0.3rem solid #acacac;
     margin-top: 10vh;
     border-radius: 3px;
     /deep/ .el-input__inner {

@@ -60,7 +60,8 @@ export default {
       default: 'relative'
     },
     menuClasses: {
-      type: [String, Object, Array]
+      type: [String, Object, Array],
+      default: ''
     },
     colorOnScroll: {
       type: Number,
@@ -77,7 +78,8 @@ export default {
           'danger',
           'success',
           'warning',
-          'info'
+          'info',
+          'primary-main'
         ].includes(value)
       }
     },
@@ -86,7 +88,8 @@ export default {
       default: ''
     },
     menuImage: {
-      type: String
+      type: String,
+      default: ''
     },
     expand: {
       type: [String, Boolean],

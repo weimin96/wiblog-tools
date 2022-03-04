@@ -2,7 +2,7 @@
   <div class="main-container section section-tabs">
     <div class="container">
       <div class="row">
-        <div class="col-md-10 ml-auto col-xl-12 mr-auto">
+        <div class="col-md-10 me-auto col-xl-12 ms-auto">
           <!-- Nav tabs -->
           <tabs
             slot="raw-content"
